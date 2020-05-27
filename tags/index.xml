@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SUCRE HECACHA</title>
-    <link>https://github.com/Rmorita-stat/my-blog.git/tags/</link>
+    <link>https://github.com/Rmorita-stat/doc.git/tags/</link>
     <description>Recent content in Tags on SUCRE HECACHA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 23 May 2019 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://github.com/Rmorita-stat/my-blog.git/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/Rmorita-stat/doc.git/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>回帰</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/tags/%E5%9B%9E%E5%B8%B0/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/tags/%E5%9B%9E%E5%B8%B0/</link>
       <pubDate>Thu, 23 May 2019 21:13:14 -0500</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/tags/%E5%9B%9E%E5%B8%B0/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/tags/%E5%9B%9E%E5%B8%B0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/tags/development/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/tags/development/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/tags/go/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/tags/go/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/tags/golang/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/tags/golang/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/tags/hugo/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/tags/hugo/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/tags/templates/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/tags/templates/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/tags/themes/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/tags/themes/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/tags/themes/</guid>
       <description></description>
     </item>
     

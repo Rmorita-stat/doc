@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SUCRE HECACHA</title>
-    <link>https://github.com/Rmorita-stat/my-blog.git/categories/</link>
+    <link>https://github.com/Rmorita-stat/doc.git/categories/</link>
     <description>Recent content in Categories on SUCRE HECACHA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/Rmorita-stat/my-blog.git/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/Rmorita-stat/doc.git/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/categories/hugo/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/categories/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/categories/hugo/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/categories/development/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/categories/development/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/categories/go/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/categories/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/categories/go/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/categories/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/categories/golang/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/categories/golang/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>https://github.com/Rmorita-stat/my-blog.git/categories/jekyll/</link>
+      <link>https://github.com/Rmorita-stat/doc.git/categories/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Rmorita-stat/my-blog.git/categories/jekyll/</guid>
+      <guid>https://github.com/Rmorita-stat/doc.git/categories/jekyll/</guid>
       <description></description>
     </item>
     
